@@ -1,0 +1,12 @@
+#bighorn compiler
+1. 
+To build the binary run "make all"
+2. 
+For clean build "make clean"
+3. 
+The source files are present inside ./src
+4. 
+The executable is generated in ./output
+5. 
+Name of the executable: micro
+6. Syntax of micro: micro <filname with path>
